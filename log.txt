@@ -1,0 +1,184 @@
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Rotten Tomatoes Rating: 91%
+IMDB Rating: 9.3
+Release Year: 1994
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Language: English
+
+---------------------------------------------------
+
+Country: USA
+
+---------------------------------------------------
+
+Title: Enchanted
+Release Year: 2007
+Rotten Tomatoes Rating: 93%
+IMDB Rating: 7.1
+Language: English
+Plot: A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil queen, where she falls in love with a lawyer.
+
+---------------------------------------------------
+
+Actors: Amy Adams, Patrick Dempsey, James Marsden, Timothy Spall
+Country: USA
+
+---------------------------------------------------
+
+Artist: Drake
+Preview: https://p.scdn.co/mp3-preview/f09116ce18bd77f543e68a925e5a96509e79ac6a?cid=cf0c3301d225408ca6d9af3d8468a589
+
+---------------------------------------------------
+
+Song: Nice For What
+Album: Scorpion
+
+---------------------------------------------------
+
+Artist: Samuel E. Wright
+Song: Under the Sea - From "The Little Mermaid" / Soundtrack Version
+
+---------------------------------------------------
+
+Preview: null
+Album: The Little Mermaid
+
+---------------------------------------------------
+
+Title: The Little Mermaid
+Rotten Tomatoes Rating: 92%
+Country: USA
+IMDB Rating: 7.6
+Release Year: 1989
+Plot: A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land.
+Actors: Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll
+
+---------------------------------------------------
+
+Language: English, French
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: The Beatles
+Preview: https://p.scdn.co/mp3-preview/3653ec8fd77f85ff282f56a3e8593e3299ba6580?cid=cf0c3301d225408ca6d9af3d8468a589
+Song: Here Comes The Sun - Remastered 2009
+
+---------------------------------------------------
+
+Album: Abbey Road (Remastered)
+
+---------------------------------------------------
+
+Artist: Rockabye Lullaby
+Album: Disney Lullabies (Deluxe Edition 2)
+Preview: null
+Song: The Rainbow Connection (The Muppets)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Napoleon Dynamite
+Rotten Tomatoes Rating: 71%
+IMDB Rating: 6.9
+Release Year: 2004
+Plot: A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.
+Country: USA
+
+---------------------------------------------------
+
+Language: English
+Actors: Jon Heder, Jon Gries, Aaron Ruell, Efren Ramirez
+
+---------------------------------------------------
+
+Date: 11/02/2018
+Name: ANZ Stadium
+City: Sydney Olympic Park
+
+---------------------------------------------------
+
+Date: 11/06/2018
+Country: Australia
+City: Woolloongabba
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/09/2018
+Name: Mt Smart Stadium
+City: Auckland
+Country: New Zealand
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Tokyo Dome
+City: Tokyo
+Name: The Gabba
+Date: 11/20/2018
+
+---------------------------------------------------
+
+Country: Tokyo
+
+---------------------------------------------------
+
+Name: Tokyo Dome
+City: Tokyo
+Country: Japan
+Date: 11/21/2018
+
+---------------------------------------------------
+
+Country: Tokyo
+Country: Japan
+
+---------------------------------------------------
+
+Title: Nacho Libre
+Release Year: 2006
+IMDB Rating: 5.7
+Rotten Tomatoes Rating: 40%
+Country: Germany, USA
+Language: English, Spanish
+Plot: Berated all his life by those around him, a monk follows his dream and dons a mask to moonlight as a Luchador (Mexican wrestler).
+Actors: Jack Black, Ana de la Reguera, Héctor Jiménez, Darius Rose
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: The Beatles
+Album: Abbey Road (Remastered)
+Song: Here Comes The Sun - Remastered 2009
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/3653ec8fd77f85ff282f56a3e8593e3299ba6580?cid=cf0c3301d225408ca6d9af3d8468a589
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=cf0c3301d225408ca6d9af3d8468a589
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
