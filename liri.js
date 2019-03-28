@@ -1,3 +1,4 @@
+//importing packages
 require("dotenv").config();
 var fs = require("fs");
 var keys = require("./keys.js");
@@ -7,11 +8,12 @@ var spotify = new Spotify(keys.spotify);
 
 
 var action = process.argv[2];
+//converting movie , song or concert name from array to string
 var parameter = process.argv.slice(3).join(" ");
 
 
 
-
+//Checking the command given in console log and switching accordingly to corresponding function
 function switchCase() {
 
   switch (action) {
