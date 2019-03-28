@@ -103,5 +103,5 @@ var parameter = process.argv.slice(3).join(" ");
 
 * Checked the command given in console log and switched accordingly to corresponding function using switch case
 
-* Used request package
-  *var request = require('request');
+* Used request package:
+  * var request = require('request');
