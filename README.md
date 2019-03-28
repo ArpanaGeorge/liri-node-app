@@ -98,10 +98,12 @@ require("dotenv").config();
 
   var spotify = new Spotify(keys.spotify);
 
+* Used request package:
+  * var request = require('request');
+
 * converted movie , song or concert name from array to string
 var parameter = process.argv.slice(3).join(" ");
 
 * Checked the command given in console log and switched accordingly to corresponding function using switch case
 
-* Used request package:
-  * var request = require('request');
+* output the data to a .txt file called `log.txt`
