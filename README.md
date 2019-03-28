@@ -67,8 +67,6 @@ exports.spotify = {
 
 * Created a file named `.env`, added the following to it, replacing the values with API keys :
 
-# Spotify API keys
-
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
 
@@ -104,3 +102,6 @@ require("dotenv").config();
 var parameter = process.argv.slice(3).join(" ");
 
 * Checked the command given in console log and switched accordingly to corresponding function using switch case
+
+* Used request package
+  *var request = require('request');
